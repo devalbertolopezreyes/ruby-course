@@ -1,6 +1,6 @@
 # Lesson 1: Outputting a String
 
-# puts "Hello World!"
+ puts "Ruby Saluda a Pilinquis!"
 
 # Lesson 2: Prompting User Input
 
